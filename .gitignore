@@ -1,0 +1,12 @@
+# Obsidian
+.obsidian/
+
+# Claude Code
+.claude/
+
+# macOS
+.DS_Store
+*.DS_Store
+
+# 内部工作文档（如不需要可删掉这行）
+# 毛选思维提炼库/README-工作说明.md
